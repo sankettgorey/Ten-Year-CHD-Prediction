@@ -22,4 +22,6 @@ Medical( history)
  * Glucose: glucose level (Continuous)
 
 * Predict variable (desired target)
-  * 10-year risk of coronary heart disease CHD(binary: “1”, means “Yes”, “0” means “No”) - Dependent Variable
+  * 10-year risk of coronary heart disease CHD(binary: “1”, means “Yes”, “0” means “No”) - Dependent Variable.
+
+From the given features, different ML algorithms are used to predict whether the person will develop the risk of CHD in the ten year time. 
